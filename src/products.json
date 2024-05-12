@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed risus ac turpis scelerisque congue.",
+    "price": 399.99,
+    "image": "https://example.com/smartphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "price": 999.99,
+    "image": "https://example.com/laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Integer accumsan risus vel nibh tristique, vel scelerisque ligula tempor.",
+    "price": 79.99,
+    "image": "https://example.com/headphones.jpg"
+  }
+]
