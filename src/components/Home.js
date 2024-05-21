@@ -3,6 +3,11 @@ import React, {useState, useEffect} from "react";
 import {Link} from "react-router-dom";
 import axios from "axios";
 import jsonProducts from "./data/products.json";
+import {characterCount, findLargestScript} from "./library.js";
+import {SCRIPTS} from "./data/scripts.js";
+
+//console.log("scripts: ", SCRIPTS);
+console.log(findLargestScript(SCRIPTS));
 
 const Home = ()=>{
 	const [products, setProducts] = useState([]);
